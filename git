@@ -1,0 +1,6 @@
+git init
+git add .
+git add filename.py
+git commit -m "Your commit message"
+git remote add origin https://github.com/Jeevan-h-m/Python-for-AIML.git
+git push -u origin main
